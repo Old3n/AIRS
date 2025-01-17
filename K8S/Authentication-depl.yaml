@@ -1,0 +1,31 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: Authentication-depl
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      app: Authenticationservice
+  template:
+    metadata:
+      labels:
+        app: Authenticationservice
+    spec:
+      containers:
+        - name: Authenticationservice
+          image: old3n/Authenticationservice:latest
+---
+apiVersion: v1
+kind: Service
+metadata:
+  name: Authentication-clusterip-srv
+spec:
+  type: ClusterIP
+  selector: 
+    app: Authenticationservice
+  ports:
+  - name: Authenticationservice
+    protocol: TCP
+    port: 8080
+    targetPort: 8080

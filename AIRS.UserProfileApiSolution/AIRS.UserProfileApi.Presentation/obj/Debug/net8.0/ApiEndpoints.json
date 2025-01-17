@@ -1,0 +1,68 @@
+[
+  {
+    "ContainingType": "AIRS.UserProfileApi.Presentation.Controllers.UserDataController",
+    "Method": "ExportUserData",
+    "RelativePath": "api/Data/export",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "AIRS.SharedLibrary.Responses.Response\u00601[[System.String, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "AIRS.UserProfileApi.Presentation.Controllers.UserProfileController",
+    "Method": "UpdateUserProfile",
+    "RelativePath": "api/UserProfile",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "userProfleUpdateDto",
+        "Type": "AIRS.UserProfileApi.Application.Dtos.UserProfleUpdateDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "AIRS.SharedLibrary.Responses.Response\u00601[[System.String, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "AIRS.UserProfileApi.Presentation.Controllers.UserProfileController",
+    "Method": "GetUserProfile",
+    "RelativePath": "api/UserProfile/me",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "AIRS.UserProfileApi.Application.Dtos.UserProfileReadDto",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  }
+]

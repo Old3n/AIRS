@@ -1,0 +1,11 @@
+C:\Users\Old3n\source\repos\AIRS\AIRS.PersonalityTestSolution\AIRS.PersonalityTest.Domain\bin\Debug\net8.0\AIRS.PersonalityTest.Domain.deps.json
+C:\Users\Old3n\source\repos\AIRS\AIRS.PersonalityTestSolution\AIRS.PersonalityTest.Domain\bin\Debug\net8.0\AIRS.PersonalityTest.Domain.dll
+C:\Users\Old3n\source\repos\AIRS\AIRS.PersonalityTestSolution\AIRS.PersonalityTest.Domain\bin\Debug\net8.0\AIRS.PersonalityTest.Domain.pdb
+C:\Users\Old3n\source\repos\AIRS\AIRS.PersonalityTestSolution\AIRS.PersonalityTest.Domain\obj\Debug\net8.0\AIRS.PersonalityTest.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Old3n\source\repos\AIRS\AIRS.PersonalityTestSolution\AIRS.PersonalityTest.Domain\obj\Debug\net8.0\AIRS.PersonalityTest.Domain.AssemblyInfoInputs.cache
+C:\Users\Old3n\source\repos\AIRS\AIRS.PersonalityTestSolution\AIRS.PersonalityTest.Domain\obj\Debug\net8.0\AIRS.PersonalityTest.Domain.AssemblyInfo.cs
+C:\Users\Old3n\source\repos\AIRS\AIRS.PersonalityTestSolution\AIRS.PersonalityTest.Domain\obj\Debug\net8.0\AIRS.PersonalityTest.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Old3n\source\repos\AIRS\AIRS.PersonalityTestSolution\AIRS.PersonalityTest.Domain\obj\Debug\net8.0\AIRS.PersonalityTest.Domain.dll
+C:\Users\Old3n\source\repos\AIRS\AIRS.PersonalityTestSolution\AIRS.PersonalityTest.Domain\obj\Debug\net8.0\refint\AIRS.PersonalityTest.Domain.dll
+C:\Users\Old3n\source\repos\AIRS\AIRS.PersonalityTestSolution\AIRS.PersonalityTest.Domain\obj\Debug\net8.0\AIRS.PersonalityTest.Domain.pdb
+C:\Users\Old3n\source\repos\AIRS\AIRS.PersonalityTestSolution\AIRS.PersonalityTest.Domain\obj\Debug\net8.0\ref\AIRS.PersonalityTest.Domain.dll

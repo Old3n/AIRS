@@ -1,0 +1,51 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35707.178
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AIRS.UserProfileApi.Domain", "AIRS.UserProfileApi.Domain\AIRS.UserProfileApi.Domain.csproj", "{0942D206-0AFA-4F9C-B42D-6BC0163496B9}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{69F31F6D-0F91-4ECF-A8AF-F0DB5418BC21}"
+	ProjectSection(SolutionItems) = preProject
+		.editorconfig = .editorconfig
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AIRS.UserProfileApi.Infrastructure", "AIRS.UserProfileApi.Infrastructure\AIRS.UserProfileApi.Infrastructure.csproj", "{38DB60DE-2B51-4852-8F1F-B946474DEA87}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AIRS.UserProfileApi.Application", "AIRS.UserProfileApi.Application\AIRS.UserProfileApi.Application.csproj", "{7637E163-13ED-4EBB-8CAB-4143247A00F0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AIRS.UserProfileApi.Presentation", "AIRS.UserProfileApi.Presentation\AIRS.UserProfileApi.Presentation.csproj", "{3493A8E1-B831-47F5-8BB9-5223BF86C408}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AIRS.SharedLibrary", "..\AIRS.SharedLibrarySolution\AIRS.SharedLibrary\AIRS.SharedLibrary.csproj", "{1D48AD9B-CB7D-412E-928D-A289D369FFBE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0942D206-0AFA-4F9C-B42D-6BC0163496B9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0942D206-0AFA-4F9C-B42D-6BC0163496B9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0942D206-0AFA-4F9C-B42D-6BC0163496B9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0942D206-0AFA-4F9C-B42D-6BC0163496B9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{38DB60DE-2B51-4852-8F1F-B946474DEA87}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{38DB60DE-2B51-4852-8F1F-B946474DEA87}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{38DB60DE-2B51-4852-8F1F-B946474DEA87}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{38DB60DE-2B51-4852-8F1F-B946474DEA87}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7637E163-13ED-4EBB-8CAB-4143247A00F0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7637E163-13ED-4EBB-8CAB-4143247A00F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7637E163-13ED-4EBB-8CAB-4143247A00F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7637E163-13ED-4EBB-8CAB-4143247A00F0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3493A8E1-B831-47F5-8BB9-5223BF86C408}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3493A8E1-B831-47F5-8BB9-5223BF86C408}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3493A8E1-B831-47F5-8BB9-5223BF86C408}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3493A8E1-B831-47F5-8BB9-5223BF86C408}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1D48AD9B-CB7D-412E-928D-A289D369FFBE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1D48AD9B-CB7D-412E-928D-A289D369FFBE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1D48AD9B-CB7D-412E-928D-A289D369FFBE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1D48AD9B-CB7D-412E-928D-A289D369FFBE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

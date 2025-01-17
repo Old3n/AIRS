@@ -1,0 +1,281 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Old3n\\source\\repos\\AIRS\\AIRS.UserProfileApiSolution\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{38DB60DE-2B51-4852-8F1F-B946474DEA87}|AIRS.UserProfileApi.Infrastructure\\AIRS.UserProfileApi.Infrastructure.csproj|c:\\users\\old3n\\source\\repos\\airs\\airs.userprofileapisolution\\airs.userprofileapi.infrastructure\\repository\\userinforepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38DB60DE-2B51-4852-8F1F-B946474DEA87}|AIRS.UserProfileApi.Infrastructure\\AIRS.UserProfileApi.Infrastructure.csproj|solutionrelative:airs.userprofileapi.infrastructure\\repository\\userinforepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|c:\\Program Files\\dotnet\\sdk\\9.0.102\\Sdks\\Microsoft.NET.Sdk.Razor\\targets\\Microsoft.NET.Sdk.Razor.MvcApplicationPartsDiscovery.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7637E163-13ED-4EBB-8CAB-4143247A00F0}|AIRS.UserProfileApi.Application\\AIRS.UserProfileApi.Application.csproj|c:\\users\\old3n\\source\\repos\\airs\\airs.userprofileapisolution\\airs.userprofileapi.application\\interfaces\\iuserinforepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7637E163-13ED-4EBB-8CAB-4143247A00F0}|AIRS.UserProfileApi.Application\\AIRS.UserProfileApi.Application.csproj|solutionrelative:airs.userprofileapi.application\\interfaces\\iuserinforepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3493A8E1-B831-47F5-8BB9-5223BF86C408}|AIRS.UserProfileApi.Presentation\\AIRS.UserProfileApi.Presentation.csproj|c:\\users\\old3n\\source\\repos\\airs\\airs.userprofileapisolution\\airs.userprofileapi.presentation\\controllers\\userdatacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3493A8E1-B831-47F5-8BB9-5223BF86C408}|AIRS.UserProfileApi.Presentation\\AIRS.UserProfileApi.Presentation.csproj|solutionrelative:airs.userprofileapi.presentation\\controllers\\userdatacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3493A8E1-B831-47F5-8BB9-5223BF86C408}|AIRS.UserProfileApi.Presentation\\AIRS.UserProfileApi.Presentation.csproj|c:\\users\\old3n\\source\\repos\\airs\\airs.userprofileapisolution\\airs.userprofileapi.presentation\\controllers\\userprofilecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3493A8E1-B831-47F5-8BB9-5223BF86C408}|AIRS.UserProfileApi.Presentation\\AIRS.UserProfileApi.Presentation.csproj|solutionrelative:airs.userprofileapi.presentation\\controllers\\userprofilecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0942D206-0AFA-4F9C-B42D-6BC0163496B9}|AIRS.UserProfileApi.Domain\\AIRS.UserProfileApi.Domain.csproj|c:\\users\\old3n\\source\\repos\\airs\\airs.userprofileapisolution\\airs.userprofileapi.domain\\entities\\userinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0942D206-0AFA-4F9C-B42D-6BC0163496B9}|AIRS.UserProfileApi.Domain\\AIRS.UserProfileApi.Domain.csproj|solutionrelative:airs.userprofileapi.domain\\entities\\userinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38DB60DE-2B51-4852-8F1F-B946474DEA87}|AIRS.UserProfileApi.Infrastructure\\AIRS.UserProfileApi.Infrastructure.csproj|c:\\users\\old3n\\source\\repos\\airs\\airs.userprofileapisolution\\airs.userprofileapi.infrastructure\\messaging\\testresultsubscriber.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38DB60DE-2B51-4852-8F1F-B946474DEA87}|AIRS.UserProfileApi.Infrastructure\\AIRS.UserProfileApi.Infrastructure.csproj|solutionrelative:airs.userprofileapi.infrastructure\\messaging\\testresultsubscriber.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7637E163-13ED-4EBB-8CAB-4143247A00F0}|AIRS.UserProfileApi.Application\\AIRS.UserProfileApi.Application.csproj|c:\\users\\old3n\\source\\repos\\airs\\airs.userprofileapisolution\\airs.userprofileapi.application\\dtos\\testpublisheddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7637E163-13ED-4EBB-8CAB-4143247A00F0}|AIRS.UserProfileApi.Application\\AIRS.UserProfileApi.Application.csproj|solutionrelative:airs.userprofileapi.application\\dtos\\testpublisheddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7637E163-13ED-4EBB-8CAB-4143247A00F0}|AIRS.UserProfileApi.Application\\AIRS.UserProfileApi.Application.csproj|c:\\users\\old3n\\source\\repos\\airs\\airs.userprofileapisolution\\airs.userprofileapi.application\\dtos\\userprofleupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7637E163-13ED-4EBB-8CAB-4143247A00F0}|AIRS.UserProfileApi.Application\\AIRS.UserProfileApi.Application.csproj|solutionrelative:airs.userprofileapi.application\\dtos\\userprofleupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7637E163-13ED-4EBB-8CAB-4143247A00F0}|AIRS.UserProfileApi.Application\\AIRS.UserProfileApi.Application.csproj|c:\\users\\old3n\\source\\repos\\airs\\airs.userprofileapisolution\\airs.userprofileapi.application\\dtos\\userprofilereaddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7637E163-13ED-4EBB-8CAB-4143247A00F0}|AIRS.UserProfileApi.Application\\AIRS.UserProfileApi.Application.csproj|solutionrelative:airs.userprofileapi.application\\dtos\\userprofilereaddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3493A8E1-B831-47F5-8BB9-5223BF86C408}|AIRS.UserProfileApi.Presentation\\AIRS.UserProfileApi.Presentation.csproj|c:\\users\\old3n\\source\\repos\\airs\\airs.userprofileapisolution\\airs.userprofileapi.presentation\\appsettings.productio.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3493A8E1-B831-47F5-8BB9-5223BF86C408}|AIRS.UserProfileApi.Presentation\\AIRS.UserProfileApi.Presentation.csproj|solutionrelative:airs.userprofileapi.presentation\\appsettings.productio.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3493A8E1-B831-47F5-8BB9-5223BF86C408}|AIRS.UserProfileApi.Presentation\\AIRS.UserProfileApi.Presentation.csproj|c:\\users\\old3n\\source\\repos\\airs\\airs.userprofileapisolution\\airs.userprofileapi.presentation\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3493A8E1-B831-47F5-8BB9-5223BF86C408}|AIRS.UserProfileApi.Presentation\\AIRS.UserProfileApi.Presentation.csproj|solutionrelative:airs.userprofileapi.presentation\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3493A8E1-B831-47F5-8BB9-5223BF86C408}|AIRS.UserProfileApi.Presentation\\AIRS.UserProfileApi.Presentation.csproj|c:\\users\\old3n\\source\\repos\\airs\\airs.userprofileapisolution\\airs.userprofileapi.presentation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3493A8E1-B831-47F5-8BB9-5223BF86C408}|AIRS.UserProfileApi.Presentation\\AIRS.UserProfileApi.Presentation.csproj|solutionrelative:airs.userprofileapi.presentation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38DB60DE-2B51-4852-8F1F-B946474DEA87}|AIRS.UserProfileApi.Infrastructure\\AIRS.UserProfileApi.Infrastructure.csproj|c:\\users\\old3n\\source\\repos\\airs\\airs.userprofileapisolution\\airs.userprofileapi.infrastructure\\dependencyinjection\\servicecontainer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38DB60DE-2B51-4852-8F1F-B946474DEA87}|AIRS.UserProfileApi.Infrastructure\\AIRS.UserProfileApi.Infrastructure.csproj|solutionrelative:airs.userprofileapi.infrastructure\\dependencyinjection\\servicecontainer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7637E163-13ED-4EBB-8CAB-4143247A00F0}|AIRS.UserProfileApi.Application\\AIRS.UserProfileApi.Application.csproj|c:\\users\\old3n\\source\\repos\\airs\\airs.userprofileapisolution\\airs.userprofileapi.application\\profiles\\userprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7637E163-13ED-4EBB-8CAB-4143247A00F0}|AIRS.UserProfileApi.Application\\AIRS.UserProfileApi.Application.csproj|solutionrelative:airs.userprofileapi.application\\profiles\\userprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Microsoft.NET.Sdk.Razor.MvcApplicationPartsDiscovery.targets",
+              "DocumentMoniker": "C:\\Program Files\\dotnet\\sdk\\9.0.102\\Sdks\\Microsoft.NET.Sdk.Razor\\targets\\Microsoft.NET.Sdk.Razor.MvcApplicationPartsDiscovery.targets",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\Program Files\\dotnet\\sdk\\9.0.102\\Sdks\\Microsoft.NET.Sdk.Razor\\targets\\Microsoft.NET.Sdk.Razor.MvcApplicationPartsDiscovery.targets",
+              "ToolTip": "C:\\Program Files\\dotnet\\sdk\\9.0.102\\Sdks\\Microsoft.NET.Sdk.Razor\\targets\\Microsoft.NET.Sdk.Razor.MvcApplicationPartsDiscovery.targets",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\Program Files\\dotnet\\sdk\\9.0.102\\Sdks\\Microsoft.NET.Sdk.Razor\\targets\\Microsoft.NET.Sdk.Razor.MvcApplicationPartsDiscovery.targets",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAzwDUAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2025-01-17T14:05:56.717Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserDataController.cs",
+              "DocumentMoniker": "C:\\Users\\Old3n\\source\\repos\\AIRS\\AIRS.UserProfileApiSolution\\AIRS.UserProfileApi.Presentation\\Controllers\\UserDataController.cs",
+              "RelativeDocumentMoniker": "AIRS.UserProfileApi.Presentation\\Controllers\\UserDataController.cs",
+              "ToolTip": "C:\\Users\\Old3n\\source\\repos\\AIRS\\AIRS.UserProfileApiSolution\\AIRS.UserProfileApi.Presentation\\Controllers\\UserDataController.cs",
+              "RelativeToolTip": "AIRS.UserProfileApi.Presentation\\Controllers\\UserDataController.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAgwCEAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T03:54:42.946Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserInfoRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Old3n\\source\\repos\\AIRS\\AIRS.UserProfileApiSolution\\AIRS.UserProfileApi.Infrastructure\\Repository\\UserInfoRepository.cs",
+              "RelativeDocumentMoniker": "AIRS.UserProfileApi.Infrastructure\\Repository\\UserInfoRepository.cs",
+              "ToolTip": "C:\\Users\\Old3n\\source\\repos\\AIRS\\AIRS.UserProfileApiSolution\\AIRS.UserProfileApi.Infrastructure\\Repository\\UserInfoRepository.cs",
+              "RelativeToolTip": "AIRS.UserProfileApi.Infrastructure\\Repository\\UserInfoRepository.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T04:05:09.96Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UserProfileController.cs",
+              "DocumentMoniker": "C:\\Users\\Old3n\\source\\repos\\AIRS\\AIRS.UserProfileApiSolution\\AIRS.UserProfileApi.Presentation\\Controllers\\UserProfileController.cs",
+              "RelativeDocumentMoniker": "AIRS.UserProfileApi.Presentation\\Controllers\\UserProfileController.cs",
+              "ToolTip": "C:\\Users\\Old3n\\source\\repos\\AIRS\\AIRS.UserProfileApiSolution\\AIRS.UserProfileApi.Presentation\\Controllers\\UserProfileController.cs",
+              "RelativeToolTip": "AIRS.UserProfileApi.Presentation\\Controllers\\UserProfileController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T03:53:58.086Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IUserInfoRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Old3n\\source\\repos\\AIRS\\AIRS.UserProfileApiSolution\\AIRS.UserProfileApi.Application\\Interfaces\\IUserInfoRepository.cs",
+              "RelativeDocumentMoniker": "AIRS.UserProfileApi.Application\\Interfaces\\IUserInfoRepository.cs",
+              "ToolTip": "C:\\Users\\Old3n\\source\\repos\\AIRS\\AIRS.UserProfileApiSolution\\AIRS.UserProfileApi.Application\\Interfaces\\IUserInfoRepository.cs",
+              "RelativeToolTip": "AIRS.UserProfileApi.Application\\Interfaces\\IUserInfoRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T04:40:49.401Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UserInfo.cs",
+              "DocumentMoniker": "C:\\Users\\Old3n\\source\\repos\\AIRS\\AIRS.UserProfileApiSolution\\AIRS.UserProfileApi.Domain\\Entities\\UserInfo.cs",
+              "RelativeDocumentMoniker": "AIRS.UserProfileApi.Domain\\Entities\\UserInfo.cs",
+              "ToolTip": "C:\\Users\\Old3n\\source\\repos\\AIRS\\AIRS.UserProfileApiSolution\\AIRS.UserProfileApi.Domain\\Entities\\UserInfo.cs",
+              "RelativeToolTip": "AIRS.UserProfileApi.Domain\\Entities\\UserInfo.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAAABkAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T13:46:20.588Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TestResultSubscriber.cs",
+              "DocumentMoniker": "C:\\Users\\Old3n\\source\\repos\\AIRS\\AIRS.UserProfileApiSolution\\AIRS.UserProfileApi.Infrastructure\\Messaging\\TestResultSubscriber.cs",
+              "RelativeDocumentMoniker": "AIRS.UserProfileApi.Infrastructure\\Messaging\\TestResultSubscriber.cs",
+              "ToolTip": "C:\\Users\\Old3n\\source\\repos\\AIRS\\AIRS.UserProfileApiSolution\\AIRS.UserProfileApi.Infrastructure\\Messaging\\TestResultSubscriber.cs",
+              "RelativeToolTip": "AIRS.UserProfileApi.Infrastructure\\Messaging\\TestResultSubscriber.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAgwD4AAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T04:47:02.932Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TestPublishedDto.cs",
+              "DocumentMoniker": "C:\\Users\\Old3n\\source\\repos\\AIRS\\AIRS.UserProfileApiSolution\\AIRS.UserProfileApi.Application\\Dtos\\TestPublishedDto.cs",
+              "RelativeDocumentMoniker": "AIRS.UserProfileApi.Application\\Dtos\\TestPublishedDto.cs",
+              "ToolTip": "C:\\Users\\Old3n\\source\\repos\\AIRS\\AIRS.UserProfileApiSolution\\AIRS.UserProfileApi.Application\\Dtos\\TestPublishedDto.cs",
+              "RelativeToolTip": "AIRS.UserProfileApi.Application\\Dtos\\TestPublishedDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T04:11:47.668Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UserProfleUpdateDto.cs",
+              "DocumentMoniker": "C:\\Users\\Old3n\\source\\repos\\AIRS\\AIRS.UserProfileApiSolution\\AIRS.UserProfileApi.Application\\Dtos\\UserProfleUpdateDto.cs",
+              "RelativeDocumentMoniker": "AIRS.UserProfileApi.Application\\Dtos\\UserProfleUpdateDto.cs",
+              "ToolTip": "C:\\Users\\Old3n\\source\\repos\\AIRS\\AIRS.UserProfileApiSolution\\AIRS.UserProfileApi.Application\\Dtos\\UserProfleUpdateDto.cs",
+              "RelativeToolTip": "AIRS.UserProfileApi.Application\\Dtos\\UserProfleUpdateDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAwwAoAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T04:08:19.068Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UserProfileReadDto.cs",
+              "DocumentMoniker": "C:\\Users\\Old3n\\source\\repos\\AIRS\\AIRS.UserProfileApiSolution\\AIRS.UserProfileApi.Application\\Dtos\\UserProfileReadDto.cs",
+              "RelativeDocumentMoniker": "AIRS.UserProfileApi.Application\\Dtos\\UserProfileReadDto.cs",
+              "ToolTip": "C:\\Users\\Old3n\\source\\repos\\AIRS\\AIRS.UserProfileApiSolution\\AIRS.UserProfileApi.Application\\Dtos\\UserProfileReadDto.cs",
+              "RelativeToolTip": "AIRS.UserProfileApi.Application\\Dtos\\UserProfileReadDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAwwAgAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T04:08:31.958Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "appsettings.Productio.json",
+              "DocumentMoniker": "C:\\Users\\Old3n\\source\\repos\\AIRS\\AIRS.UserProfileApiSolution\\AIRS.UserProfileApi.Presentation\\appsettings.Productio.json",
+              "RelativeDocumentMoniker": "AIRS.UserProfileApi.Presentation\\appsettings.Productio.json",
+              "ToolTip": "C:\\Users\\Old3n\\source\\repos\\AIRS\\AIRS.UserProfileApiSolution\\AIRS.UserProfileApi.Presentation\\appsettings.Productio.json",
+              "RelativeToolTip": "AIRS.UserProfileApi.Presentation\\appsettings.Productio.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-17T06:34:10.76Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ServiceContainer.cs",
+              "DocumentMoniker": "C:\\Users\\Old3n\\source\\repos\\AIRS\\AIRS.UserProfileApiSolution\\AIRS.UserProfileApi.Infrastructure\\DependencyInjection\\ServiceContainer.cs",
+              "RelativeDocumentMoniker": "AIRS.UserProfileApi.Infrastructure\\DependencyInjection\\ServiceContainer.cs",
+              "ToolTip": "C:\\Users\\Old3n\\source\\repos\\AIRS\\AIRS.UserProfileApiSolution\\AIRS.UserProfileApi.Infrastructure\\DependencyInjection\\ServiceContainer.cs",
+              "RelativeToolTip": "AIRS.UserProfileApi.Infrastructure\\DependencyInjection\\ServiceContainer.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABQAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T04:21:07.943Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\Old3n\\source\\repos\\AIRS\\AIRS.UserProfileApiSolution\\AIRS.UserProfileApi.Presentation\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "AIRS.UserProfileApi.Presentation\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\Old3n\\source\\repos\\AIRS\\AIRS.UserProfileApiSolution\\AIRS.UserProfileApi.Presentation\\appsettings.Development.json",
+              "RelativeToolTip": "AIRS.UserProfileApi.Presentation\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-17T06:06:11.783Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Old3n\\source\\repos\\AIRS\\AIRS.UserProfileApiSolution\\AIRS.UserProfileApi.Presentation\\Program.cs",
+              "RelativeDocumentMoniker": "AIRS.UserProfileApi.Presentation\\Program.cs",
+              "ToolTip": "C:\\Users\\Old3n\\source\\repos\\AIRS\\AIRS.UserProfileApiSolution\\AIRS.UserProfileApi.Presentation\\Program.cs",
+              "RelativeToolTip": "AIRS.UserProfileApi.Presentation\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T04:01:14.659Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "UserProfile.cs",
+              "DocumentMoniker": "C:\\Users\\Old3n\\source\\repos\\AIRS\\AIRS.UserProfileApiSolution\\AIRS.UserProfileApi.Application\\Profiles\\UserProfile.cs",
+              "RelativeDocumentMoniker": "AIRS.UserProfileApi.Application\\Profiles\\UserProfile.cs",
+              "ToolTip": "C:\\Users\\Old3n\\source\\repos\\AIRS\\AIRS.UserProfileApiSolution\\AIRS.UserProfileApi.Application\\Profiles\\UserProfile.cs",
+              "RelativeToolTip": "AIRS.UserProfileApi.Application\\Profiles\\UserProfile.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAgwBQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T04:39:30.901Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,6 @@
+@AIRS.UserProfileApi.Presentation_HostAddress = http://localhost:5073
+
+GET {{AIRS.UserProfileApi.Presentation_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

@@ -1,0 +1,51 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35527.113
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AIRS.PersonalityTest.Domain", "AIRS.PersonalityTest.Domain\AIRS.PersonalityTest.Domain.csproj", "{21B9FFD8-7A11-4468-9B58-6B2446E5C955}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AIRS.PersonalityTest.Infrastructure", "AIRS.PersonalityTest.Infrastructure\AIRS.PersonalityTest.Infrastructure.csproj", "{858BBDD0-E75F-404B-AFA1-CD9DB0BE46C3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AIRS.PersonalityTest.Application", "AIRS.PersonalityTest.Application\AIRS.PersonalityTest.Application.csproj", "{9E4A6523-AF31-46BC-9102-25FBDABFD46C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AIRS.PersonalityTest.Presentation", "AIRS.PersonalityTest.Presentation\AIRS.PersonalityTest.Presentation.csproj", "{62919AE7-5064-434F-BC46-00E2BA4E60AD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AIRS.SharedLibrary", "..\AIRS.SharedLibrarySolution\AIRS.SharedLibrary\AIRS.SharedLibrary.csproj", "{48649F19-5CAE-44C4-A396-B068FD30EEDE}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{02BB92E0-BC0D-4F7E-A6A8-BF835CEF6D7E}"
+	ProjectSection(SolutionItems) = preProject
+		.editorconfig = .editorconfig
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{21B9FFD8-7A11-4468-9B58-6B2446E5C955}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{21B9FFD8-7A11-4468-9B58-6B2446E5C955}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{21B9FFD8-7A11-4468-9B58-6B2446E5C955}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{21B9FFD8-7A11-4468-9B58-6B2446E5C955}.Release|Any CPU.Build.0 = Release|Any CPU
+		{858BBDD0-E75F-404B-AFA1-CD9DB0BE46C3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{858BBDD0-E75F-404B-AFA1-CD9DB0BE46C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{858BBDD0-E75F-404B-AFA1-CD9DB0BE46C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{858BBDD0-E75F-404B-AFA1-CD9DB0BE46C3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9E4A6523-AF31-46BC-9102-25FBDABFD46C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9E4A6523-AF31-46BC-9102-25FBDABFD46C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9E4A6523-AF31-46BC-9102-25FBDABFD46C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9E4A6523-AF31-46BC-9102-25FBDABFD46C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{62919AE7-5064-434F-BC46-00E2BA4E60AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{62919AE7-5064-434F-BC46-00E2BA4E60AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{62919AE7-5064-434F-BC46-00E2BA4E60AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{62919AE7-5064-434F-BC46-00E2BA4E60AD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{48649F19-5CAE-44C4-A396-B068FD30EEDE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{48649F19-5CAE-44C4-A396-B068FD30EEDE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{48649F19-5CAE-44C4-A396-B068FD30EEDE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{48649F19-5CAE-44C4-A396-B068FD30EEDE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

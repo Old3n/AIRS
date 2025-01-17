@@ -1,0 +1,137 @@
+[
+  {
+    "ContainingType": "AIRS.PersonalityTest.Presentation.Controllers.ResultController",
+    "Method": "Submit",
+    "RelativePath": "api/Result",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "submissionDto",
+        "Type": "AIRS.PersonalityTest.Application.DTOs.TestResultDto.TestSubmissionDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "AIRS.SharedLibrary.Responses.Response\u00601[[System.String, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "TestsController",
+    "Method": "AddTest",
+    "RelativePath": "api/Tests",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "testDto",
+        "Type": "AIRS.PersonalityTest.Application.DTOs.TestDto.TestDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "AIRS.SharedLibrary.Responses.Response\u00601[[AIRS.PersonalityTest.Application.DTOs.TestDto.TestDTO, AIRS.PersonalityTest.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "TestsController",
+    "Method": "GetTest",
+    "RelativePath": "api/Tests/{testCode}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "testCode",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "AIRS.PersonalityTest.Application.DTOs.TestDto.TestDTO",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "AIRS.PersonalityTest.Presentation.Controllers.QuestionsController",
+    "Method": "AddQuestion",
+    "RelativePath": "api/tests/{testCode}/Questions",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "testCode",
+        "Type": "System.String",
+        "IsRequired": true
+      },
+      {
+        "Name": "questionCreateDTO",
+        "Type": "QuestionCreateDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "AIRS.SharedLibrary.Responses.Response\u00601[[System.String, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "TestsController",
+    "Method": "GetTestIdByName",
+    "RelativePath": "api/Tests/{testName}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "testName",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "AIRS.SharedLibrary.Responses.Response\u00601[[System.String, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  }
+]

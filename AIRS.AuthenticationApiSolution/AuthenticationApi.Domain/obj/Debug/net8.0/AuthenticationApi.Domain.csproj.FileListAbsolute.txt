@@ -1,0 +1,11 @@
+C:\Users\Old3n\source\repos\AIRS\AIRS.AuthenticationApiSolution\AuthenticationApi.Domain\bin\Debug\net8.0\AuthenticationApi.Domain.deps.json
+C:\Users\Old3n\source\repos\AIRS\AIRS.AuthenticationApiSolution\AuthenticationApi.Domain\bin\Debug\net8.0\AuthenticationApi.Domain.dll
+C:\Users\Old3n\source\repos\AIRS\AIRS.AuthenticationApiSolution\AuthenticationApi.Domain\bin\Debug\net8.0\AuthenticationApi.Domain.pdb
+C:\Users\Old3n\source\repos\AIRS\AIRS.AuthenticationApiSolution\AuthenticationApi.Domain\obj\Debug\net8.0\AuthenticationApi.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Old3n\source\repos\AIRS\AIRS.AuthenticationApiSolution\AuthenticationApi.Domain\obj\Debug\net8.0\AuthenticationApi.Domain.AssemblyInfoInputs.cache
+C:\Users\Old3n\source\repos\AIRS\AIRS.AuthenticationApiSolution\AuthenticationApi.Domain\obj\Debug\net8.0\AuthenticationApi.Domain.AssemblyInfo.cs
+C:\Users\Old3n\source\repos\AIRS\AIRS.AuthenticationApiSolution\AuthenticationApi.Domain\obj\Debug\net8.0\AuthenticationApi.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Old3n\source\repos\AIRS\AIRS.AuthenticationApiSolution\AuthenticationApi.Domain\obj\Debug\net8.0\AuthenticationApi.Domain.dll
+C:\Users\Old3n\source\repos\AIRS\AIRS.AuthenticationApiSolution\AuthenticationApi.Domain\obj\Debug\net8.0\refint\AuthenticationApi.Domain.dll
+C:\Users\Old3n\source\repos\AIRS\AIRS.AuthenticationApiSolution\AuthenticationApi.Domain\obj\Debug\net8.0\AuthenticationApi.Domain.pdb
+C:\Users\Old3n\source\repos\AIRS\AIRS.AuthenticationApiSolution\AuthenticationApi.Domain\obj\Debug\net8.0\ref\AuthenticationApi.Domain.dll

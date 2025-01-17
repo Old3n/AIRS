@@ -1,0 +1,12 @@
+C:\Users\Old3n\source\repos\AIRS\AIRS.SharedLibrarySolution\AIRS.SharedLibrary\bin\Debug\net8.0\AIRS.SharedLibrary.deps.json
+C:\Users\Old3n\source\repos\AIRS\AIRS.SharedLibrarySolution\AIRS.SharedLibrary\bin\Debug\net8.0\AIRS.SharedLibrary.dll
+C:\Users\Old3n\source\repos\AIRS\AIRS.SharedLibrarySolution\AIRS.SharedLibrary\bin\Debug\net8.0\AIRS.SharedLibrary.pdb
+C:\Users\Old3n\source\repos\AIRS\AIRS.SharedLibrarySolution\AIRS.SharedLibrary\obj\Debug\net8.0\AIRS.SharedLibrary.csproj.AssemblyReference.cache
+C:\Users\Old3n\source\repos\AIRS\AIRS.SharedLibrarySolution\AIRS.SharedLibrary\obj\Debug\net8.0\AIRS.SharedLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Old3n\source\repos\AIRS\AIRS.SharedLibrarySolution\AIRS.SharedLibrary\obj\Debug\net8.0\AIRS.SharedLibrary.AssemblyInfoInputs.cache
+C:\Users\Old3n\source\repos\AIRS\AIRS.SharedLibrarySolution\AIRS.SharedLibrary\obj\Debug\net8.0\AIRS.SharedLibrary.AssemblyInfo.cs
+C:\Users\Old3n\source\repos\AIRS\AIRS.SharedLibrarySolution\AIRS.SharedLibrary\obj\Debug\net8.0\AIRS.SharedLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Old3n\source\repos\AIRS\AIRS.SharedLibrarySolution\AIRS.SharedLibrary\obj\Debug\net8.0\AIRS.SharedLibrary.dll
+C:\Users\Old3n\source\repos\AIRS\AIRS.SharedLibrarySolution\AIRS.SharedLibrary\obj\Debug\net8.0\refint\AIRS.SharedLibrary.dll
+C:\Users\Old3n\source\repos\AIRS\AIRS.SharedLibrarySolution\AIRS.SharedLibrary\obj\Debug\net8.0\AIRS.SharedLibrary.pdb
+C:\Users\Old3n\source\repos\AIRS\AIRS.SharedLibrarySolution\AIRS.SharedLibrary\obj\Debug\net8.0\ref\AIRS.SharedLibrary.dll

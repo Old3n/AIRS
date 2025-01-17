@@ -1,0 +1,31 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: tests-depl
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      app: testsservice
+  template:
+    metadata:
+      labels:
+        app: testsservice
+    spec:
+      containers:
+        - name: testsservice
+          image: old3n/testsservice:latest
+---
+apiVersion: v1
+kind: Service
+metadata:
+  name: tests-clusterip-srv
+spec:
+  type: ClusterIP
+  selector: 
+    app: testsservice
+  ports:
+  - name: testsservice
+    protocol: TCP
+    port: 8080
+    targetPort: 8080

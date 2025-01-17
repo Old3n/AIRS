@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "vjKM4uzKNgsoNMLnwu29rLuk+8FxoiGoJcUg7v+nv30=",
+  "Source": "AIRS.UserProfileApi.Presentation",
+  "BasePath": "_content/AIRS.UserProfileApi.Presentation",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

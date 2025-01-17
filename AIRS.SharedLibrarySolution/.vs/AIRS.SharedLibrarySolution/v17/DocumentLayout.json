@@ -1,0 +1,113 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Old3n\\source\\repos\\AIRS\\AIRS.SharedLibrarySolution\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F532C844-6639-4819-A11D-457DCBF4FD08}|AIRS.SharedLibrary\\AIRS.SharedLibrary.csproj|c:\\users\\old3n\\source\\repos\\airs\\airs.sharedlibrarysolution\\airs.sharedlibrary\\dependencyinjection\\sharedservicecontainer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F532C844-6639-4819-A11D-457DCBF4FD08}|AIRS.SharedLibrary\\AIRS.SharedLibrary.csproj|solutionrelative:airs.sharedlibrary\\dependencyinjection\\sharedservicecontainer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F532C844-6639-4819-A11D-457DCBF4FD08}|AIRS.SharedLibrary\\AIRS.SharedLibrary.csproj|c:\\users\\old3n\\source\\repos\\airs\\airs.sharedlibrarysolution\\airs.sharedlibrary\\interface\\igeneric.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F532C844-6639-4819-A11D-457DCBF4FD08}|AIRS.SharedLibrary\\AIRS.SharedLibrary.csproj|solutionrelative:airs.sharedlibrary\\interface\\igeneric.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F532C844-6639-4819-A11D-457DCBF4FD08}|AIRS.SharedLibrary\\AIRS.SharedLibrary.csproj|c:\\users\\old3n\\source\\repos\\airs\\airs.sharedlibrarysolution\\airs.sharedlibrary\\middleware\\gatewayconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F532C844-6639-4819-A11D-457DCBF4FD08}|AIRS.SharedLibrary\\AIRS.SharedLibrary.csproj|solutionrelative:airs.sharedlibrary\\middleware\\gatewayconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F532C844-6639-4819-A11D-457DCBF4FD08}|AIRS.SharedLibrary\\AIRS.SharedLibrary.csproj|c:\\users\\old3n\\source\\repos\\airs\\airs.sharedlibrarysolution\\airs.sharedlibrary\\middleware\\globalexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F532C844-6639-4819-A11D-457DCBF4FD08}|AIRS.SharedLibrary\\AIRS.SharedLibrary.csproj|solutionrelative:airs.sharedlibrary\\middleware\\globalexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F532C844-6639-4819-A11D-457DCBF4FD08}|AIRS.SharedLibrary\\AIRS.SharedLibrary.csproj|c:\\users\\old3n\\source\\repos\\airs\\airs.sharedlibrarysolution\\airs.sharedlibrary\\logs\\logexceptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F532C844-6639-4819-A11D-457DCBF4FD08}|AIRS.SharedLibrary\\AIRS.SharedLibrary.csproj|solutionrelative:airs.sharedlibrary\\logs\\logexceptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SharedServiceContainer.cs",
+              "DocumentMoniker": "C:\\Users\\Old3n\\source\\repos\\AIRS\\AIRS.SharedLibrarySolution\\AIRS.SharedLibrary\\DependencyInjection\\SharedServiceContainer.cs",
+              "RelativeDocumentMoniker": "AIRS.SharedLibrary\\DependencyInjection\\SharedServiceContainer.cs",
+              "ToolTip": "C:\\Users\\Old3n\\source\\repos\\AIRS\\AIRS.SharedLibrarySolution\\AIRS.SharedLibrary\\DependencyInjection\\SharedServiceContainer.cs",
+              "RelativeToolTip": "AIRS.SharedLibrary\\DependencyInjection\\SharedServiceContainer.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABcAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T04:01:18.036Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IGeneric.cs",
+              "DocumentMoniker": "C:\\Users\\Old3n\\source\\repos\\AIRS\\AIRS.SharedLibrarySolution\\AIRS.SharedLibrary\\Interface\\IGeneric.cs",
+              "RelativeDocumentMoniker": "AIRS.SharedLibrary\\Interface\\IGeneric.cs",
+              "ToolTip": "C:\\Users\\Old3n\\source\\repos\\AIRS\\AIRS.SharedLibrarySolution\\AIRS.SharedLibrary\\Interface\\IGeneric.cs",
+              "RelativeToolTip": "AIRS.SharedLibrary\\Interface\\IGeneric.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-05T14:39:17.586Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GatewayConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\Old3n\\source\\repos\\AIRS\\AIRS.SharedLibrarySolution\\AIRS.SharedLibrary\\Middleware\\GatewayConfiguration.cs",
+              "RelativeDocumentMoniker": "AIRS.SharedLibrary\\Middleware\\GatewayConfiguration.cs",
+              "ToolTip": "C:\\Users\\Old3n\\source\\repos\\AIRS\\AIRS.SharedLibrarySolution\\AIRS.SharedLibrary\\Middleware\\GatewayConfiguration.cs",
+              "RelativeToolTip": "AIRS.SharedLibrary\\Middleware\\GatewayConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-05T14:22:19.748Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GlobalException.cs",
+              "DocumentMoniker": "C:\\Users\\Old3n\\source\\repos\\AIRS\\AIRS.SharedLibrarySolution\\AIRS.SharedLibrary\\Middleware\\GlobalException.cs",
+              "RelativeDocumentMoniker": "AIRS.SharedLibrary\\Middleware\\GlobalException.cs",
+              "ToolTip": "C:\\Users\\Old3n\\source\\repos\\AIRS\\AIRS.SharedLibrarySolution\\AIRS.SharedLibrary\\Middleware\\GlobalException.cs",
+              "RelativeToolTip": "AIRS.SharedLibrary\\Middleware\\GlobalException.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAABOwD4AAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-05T13:55:39.1Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LogExceptions.cs",
+              "DocumentMoniker": "C:\\Users\\Old3n\\source\\repos\\AIRS\\AIRS.SharedLibrarySolution\\AIRS.SharedLibrary\\Logs\\LogExceptions.cs",
+              "RelativeDocumentMoniker": "AIRS.SharedLibrary\\Logs\\LogExceptions.cs",
+              "ToolTip": "C:\\Users\\Old3n\\source\\repos\\AIRS\\AIRS.SharedLibrarySolution\\AIRS.SharedLibrary\\Logs\\LogExceptions.cs",
+              "RelativeToolTip": "AIRS.SharedLibrary\\Logs\\LogExceptions.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAywBQAAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-05T13:39:34.544Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

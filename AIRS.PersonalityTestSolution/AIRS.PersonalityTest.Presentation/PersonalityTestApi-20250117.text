@@ -1,0 +1,80 @@
+2025-01-17 04:01:43.993 +03:30 [WRN] Missing type map configuration or unsupported mapping.
+
+Mapping types:
+Response`1 -> TestDTO
+AIRS.SharedLibrary.Responses.Response`1[[AIRS.PersonalityTest.Domain.Entities.Test, AIRS.PersonalityTest.Domain, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] -> AIRS.PersonalityTest.Application.DTOs.TestDto.TestDTO
+2025-01-17 04:01:44.036 +03:30 [INF] Missing type map configuration or unsupported mapping.
+
+Mapping types:
+Response`1 -> TestDTO
+AIRS.SharedLibrary.Responses.Response`1[[AIRS.PersonalityTest.Domain.Entities.Test, AIRS.PersonalityTest.Domain, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] -> AIRS.PersonalityTest.Application.DTOs.TestDto.TestDTO
+2025-01-17 04:02:06.028 +03:30 [WRN] Missing type map configuration or unsupported mapping.
+
+Mapping types:
+Response`1 -> TestDTO
+AIRS.SharedLibrary.Responses.Response`1[[AIRS.PersonalityTest.Domain.Entities.Test, AIRS.PersonalityTest.Domain, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] -> AIRS.PersonalityTest.Application.DTOs.TestDto.TestDTO
+2025-01-17 04:02:06.031 +03:30 [INF] Missing type map configuration or unsupported mapping.
+
+Mapping types:
+Response`1 -> TestDTO
+AIRS.SharedLibrary.Responses.Response`1[[AIRS.PersonalityTest.Domain.Entities.Test, AIRS.PersonalityTest.Domain, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] -> AIRS.PersonalityTest.Application.DTOs.TestDto.TestDTO
+2025-01-17 04:07:48.191 +03:30 [WRN] Missing type map configuration or unsupported mapping.
+
+Mapping types:
+Response`1 -> TestDTO
+AIRS.SharedLibrary.Responses.Response`1[[AIRS.PersonalityTest.Domain.Entities.Test, AIRS.PersonalityTest.Domain, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] -> AIRS.PersonalityTest.Application.DTOs.TestDto.TestDTO
+2025-01-17 04:07:48.228 +03:30 [INF] Missing type map configuration or unsupported mapping.
+
+Mapping types:
+Response`1 -> TestDTO
+AIRS.SharedLibrary.Responses.Response`1[[AIRS.PersonalityTest.Domain.Entities.Test, AIRS.PersonalityTest.Domain, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] -> AIRS.PersonalityTest.Application.DTOs.TestDto.TestDTO
+2025-01-17 04:08:35.212 +03:30 [WRN] Missing type map configuration or unsupported mapping.
+
+Mapping types:
+Response`1 -> TestDTO
+AIRS.SharedLibrary.Responses.Response`1[[AIRS.PersonalityTest.Domain.Entities.Test, AIRS.PersonalityTest.Domain, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] -> AIRS.PersonalityTest.Application.DTOs.TestDto.TestDTO
+2025-01-17 04:08:35.243 +03:30 [INF] Missing type map configuration or unsupported mapping.
+
+Mapping types:
+Response`1 -> TestDTO
+AIRS.SharedLibrary.Responses.Response`1[[AIRS.PersonalityTest.Domain.Entities.Test, AIRS.PersonalityTest.Domain, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] -> AIRS.PersonalityTest.Application.DTOs.TestDto.TestDTO
+2025-01-17 04:10:03.340 +03:30 [WRN] Missing type map configuration or unsupported mapping.
+
+Mapping types:
+Test -> TestDTO
+AIRS.PersonalityTest.Domain.Entities.Test -> AIRS.PersonalityTest.Application.DTOs.TestDto.TestDTO
+2025-01-17 04:10:03.370 +03:30 [INF] Missing type map configuration or unsupported mapping.
+
+Mapping types:
+Test -> TestDTO
+AIRS.PersonalityTest.Domain.Entities.Test -> AIRS.PersonalityTest.Application.DTOs.TestDto.TestDTO
+2025-01-17 04:11:05.738 +03:30 [WRN] Missing type map configuration or unsupported mapping.
+
+Mapping types:
+Test -> TestDTO
+AIRS.PersonalityTest.Domain.Entities.Test -> AIRS.PersonalityTest.Application.DTOs.TestDto.TestDTO
+2025-01-17 04:11:05.774 +03:30 [INF] Missing type map configuration or unsupported mapping.
+
+Mapping types:
+Test -> TestDTO
+AIRS.PersonalityTest.Domain.Entities.Test -> AIRS.PersonalityTest.Application.DTOs.TestDto.TestDTO
+2025-01-17 04:13:01.882 +03:30 [WRN] Missing type map configuration or unsupported mapping.
+
+Mapping types:
+Test -> TestDTO
+AIRS.PersonalityTest.Domain.Entities.Test -> AIRS.PersonalityTest.Application.DTOs.TestDto.TestDTO
+2025-01-17 04:13:01.884 +03:30 [INF] Missing type map configuration or unsupported mapping.
+
+Mapping types:
+Test -> TestDTO
+AIRS.PersonalityTest.Domain.Entities.Test -> AIRS.PersonalityTest.Application.DTOs.TestDto.TestDTO
+2025-01-17 04:18:25.089 +03:30 [WRN] Missing type map configuration or unsupported mapping.
+
+Mapping types:
+Test -> TestDTO
+AIRS.PersonalityTest.Domain.Entities.Test -> AIRS.PersonalityTest.Application.DTOs.TestDto.TestDTO
+2025-01-17 04:18:25.119 +03:30 [INF] Missing type map configuration or unsupported mapping.
+
+Mapping types:
+Test -> TestDTO
+AIRS.PersonalityTest.Domain.Entities.Test -> AIRS.PersonalityTest.Application.DTOs.TestDto.TestDTO

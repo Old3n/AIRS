@@ -1,0 +1,11 @@
+C:\Users\Old3n\source\repos\AIRS\AIRS.UserProfileApiSolution\AIRS.UserProfileApi.Domain\bin\Debug\net8.0\AIRS.UserProfileApi.Domain.deps.json
+C:\Users\Old3n\source\repos\AIRS\AIRS.UserProfileApiSolution\AIRS.UserProfileApi.Domain\bin\Debug\net8.0\AIRS.UserProfileApi.Domain.dll
+C:\Users\Old3n\source\repos\AIRS\AIRS.UserProfileApiSolution\AIRS.UserProfileApi.Domain\bin\Debug\net8.0\AIRS.UserProfileApi.Domain.pdb
+C:\Users\Old3n\source\repos\AIRS\AIRS.UserProfileApiSolution\AIRS.UserProfileApi.Domain\obj\Debug\net8.0\AIRS.UserProfileApi.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Old3n\source\repos\AIRS\AIRS.UserProfileApiSolution\AIRS.UserProfileApi.Domain\obj\Debug\net8.0\AIRS.UserProfileApi.Domain.AssemblyInfoInputs.cache
+C:\Users\Old3n\source\repos\AIRS\AIRS.UserProfileApiSolution\AIRS.UserProfileApi.Domain\obj\Debug\net8.0\AIRS.UserProfileApi.Domain.AssemblyInfo.cs
+C:\Users\Old3n\source\repos\AIRS\AIRS.UserProfileApiSolution\AIRS.UserProfileApi.Domain\obj\Debug\net8.0\AIRS.UserProfileApi.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Old3n\source\repos\AIRS\AIRS.UserProfileApiSolution\AIRS.UserProfileApi.Domain\obj\Debug\net8.0\AIRS.UserProfileApi.Domain.dll
+C:\Users\Old3n\source\repos\AIRS\AIRS.UserProfileApiSolution\AIRS.UserProfileApi.Domain\obj\Debug\net8.0\refint\AIRS.UserProfileApi.Domain.dll
+C:\Users\Old3n\source\repos\AIRS\AIRS.UserProfileApiSolution\AIRS.UserProfileApi.Domain\obj\Debug\net8.0\AIRS.UserProfileApi.Domain.pdb
+C:\Users\Old3n\source\repos\AIRS\AIRS.UserProfileApiSolution\AIRS.UserProfileApi.Domain\obj\Debug\net8.0\ref\AIRS.UserProfileApi.Domain.dll

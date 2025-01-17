@@ -1,0 +1,31 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: userprofile-depl
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      app: userprofileservice
+  template:
+    metadata:
+      labels:
+        app: userprofileservice
+    spec:
+      containers:
+        - name: userprofileservice
+          image: old3n/userprofileservice:latest
+---
+apiVersion: v1
+kind: Service
+metadata:
+  name: userprofile-clusterip-srv
+spec:
+  type: ClusterIP
+  selector: 
+    app: userprofileservice
+  ports:
+  - name: userprofileservice
+    protocol: TCP
+    port: 8080
+    targetPort: 8080

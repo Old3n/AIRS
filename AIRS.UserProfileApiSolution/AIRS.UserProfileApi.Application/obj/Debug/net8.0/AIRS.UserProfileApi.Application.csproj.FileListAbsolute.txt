@@ -1,0 +1,17 @@
+C:\Users\Old3n\source\repos\AIRS\AIRS.UserProfileApiSolution\AIRS.UserProfileApi.Application\bin\Debug\net8.0\AIRS.UserProfileApi.Application.deps.json
+C:\Users\Old3n\source\repos\AIRS\AIRS.UserProfileApiSolution\AIRS.UserProfileApi.Application\bin\Debug\net8.0\AIRS.UserProfileApi.Application.dll
+C:\Users\Old3n\source\repos\AIRS\AIRS.UserProfileApiSolution\AIRS.UserProfileApi.Application\bin\Debug\net8.0\AIRS.UserProfileApi.Application.pdb
+C:\Users\Old3n\source\repos\AIRS\AIRS.UserProfileApiSolution\AIRS.UserProfileApi.Application\bin\Debug\net8.0\AIRS.SharedLibrary.dll
+C:\Users\Old3n\source\repos\AIRS\AIRS.UserProfileApiSolution\AIRS.UserProfileApi.Application\bin\Debug\net8.0\AIRS.UserProfileApi.Domain.dll
+C:\Users\Old3n\source\repos\AIRS\AIRS.UserProfileApiSolution\AIRS.UserProfileApi.Application\bin\Debug\net8.0\AIRS.SharedLibrary.pdb
+C:\Users\Old3n\source\repos\AIRS\AIRS.UserProfileApiSolution\AIRS.UserProfileApi.Application\bin\Debug\net8.0\AIRS.UserProfileApi.Domain.pdb
+C:\Users\Old3n\source\repos\AIRS\AIRS.UserProfileApiSolution\AIRS.UserProfileApi.Application\obj\Debug\net8.0\AIRS.UserProfileApi.Application.csproj.AssemblyReference.cache
+C:\Users\Old3n\source\repos\AIRS\AIRS.UserProfileApiSolution\AIRS.UserProfileApi.Application\obj\Debug\net8.0\AIRS.UserProfileApi.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Old3n\source\repos\AIRS\AIRS.UserProfileApiSolution\AIRS.UserProfileApi.Application\obj\Debug\net8.0\AIRS.UserProfileApi.Application.AssemblyInfoInputs.cache
+C:\Users\Old3n\source\repos\AIRS\AIRS.UserProfileApiSolution\AIRS.UserProfileApi.Application\obj\Debug\net8.0\AIRS.UserProfileApi.Application.AssemblyInfo.cs
+C:\Users\Old3n\source\repos\AIRS\AIRS.UserProfileApiSolution\AIRS.UserProfileApi.Application\obj\Debug\net8.0\AIRS.UserProfileApi.Application.csproj.CoreCompileInputs.cache
+C:\Users\Old3n\source\repos\AIRS\AIRS.UserProfileApiSolution\AIRS.UserProfileApi.Application\obj\Debug\net8.0\AIRS.Use.E4177D1C.Up2Date
+C:\Users\Old3n\source\repos\AIRS\AIRS.UserProfileApiSolution\AIRS.UserProfileApi.Application\obj\Debug\net8.0\AIRS.UserProfileApi.Application.dll
+C:\Users\Old3n\source\repos\AIRS\AIRS.UserProfileApiSolution\AIRS.UserProfileApi.Application\obj\Debug\net8.0\refint\AIRS.UserProfileApi.Application.dll
+C:\Users\Old3n\source\repos\AIRS\AIRS.UserProfileApiSolution\AIRS.UserProfileApi.Application\obj\Debug\net8.0\AIRS.UserProfileApi.Application.pdb
+C:\Users\Old3n\source\repos\AIRS\AIRS.UserProfileApiSolution\AIRS.UserProfileApi.Application\obj\Debug\net8.0\ref\AIRS.UserProfileApi.Application.dll

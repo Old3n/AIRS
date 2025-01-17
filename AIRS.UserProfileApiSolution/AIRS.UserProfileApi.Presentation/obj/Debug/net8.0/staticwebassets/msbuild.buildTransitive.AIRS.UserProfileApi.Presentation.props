@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\AIRS.UserProfileApi.Presentation.props" />
+</Project>

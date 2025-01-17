@@ -1,0 +1,17 @@
+C:\Users\Old3n\source\repos\AIRS\AIRS.AuthenticationApiSolution\AuthenticationApi.Application\bin\Debug\net8.0\AuthenticationApi.Application.deps.json
+C:\Users\Old3n\source\repos\AIRS\AIRS.AuthenticationApiSolution\AuthenticationApi.Application\bin\Debug\net8.0\AuthenticationApi.Application.dll
+C:\Users\Old3n\source\repos\AIRS\AIRS.AuthenticationApiSolution\AuthenticationApi.Application\bin\Debug\net8.0\AuthenticationApi.Application.pdb
+C:\Users\Old3n\source\repos\AIRS\AIRS.AuthenticationApiSolution\AuthenticationApi.Application\bin\Debug\net8.0\AIRS.SharedLibrary.dll
+C:\Users\Old3n\source\repos\AIRS\AIRS.AuthenticationApiSolution\AuthenticationApi.Application\bin\Debug\net8.0\AIRS.SharedLibrary.pdb
+C:\Users\Old3n\source\repos\AIRS\AIRS.AuthenticationApiSolution\AuthenticationApi.Application\obj\Debug\net8.0\AuthenticationApi.Application.csproj.AssemblyReference.cache
+C:\Users\Old3n\source\repos\AIRS\AIRS.AuthenticationApiSolution\AuthenticationApi.Application\obj\Debug\net8.0\AuthenticationApi.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Old3n\source\repos\AIRS\AIRS.AuthenticationApiSolution\AuthenticationApi.Application\obj\Debug\net8.0\AuthenticationApi.Application.AssemblyInfoInputs.cache
+C:\Users\Old3n\source\repos\AIRS\AIRS.AuthenticationApiSolution\AuthenticationApi.Application\obj\Debug\net8.0\AuthenticationApi.Application.AssemblyInfo.cs
+C:\Users\Old3n\source\repos\AIRS\AIRS.AuthenticationApiSolution\AuthenticationApi.Application\obj\Debug\net8.0\AuthenticationApi.Application.csproj.CoreCompileInputs.cache
+C:\Users\Old3n\source\repos\AIRS\AIRS.AuthenticationApiSolution\AuthenticationApi.Application\obj\Debug\net8.0\Authenti.F26204DC.Up2Date
+C:\Users\Old3n\source\repos\AIRS\AIRS.AuthenticationApiSolution\AuthenticationApi.Application\obj\Debug\net8.0\AuthenticationApi.Application.dll
+C:\Users\Old3n\source\repos\AIRS\AIRS.AuthenticationApiSolution\AuthenticationApi.Application\obj\Debug\net8.0\refint\AuthenticationApi.Application.dll
+C:\Users\Old3n\source\repos\AIRS\AIRS.AuthenticationApiSolution\AuthenticationApi.Application\obj\Debug\net8.0\AuthenticationApi.Application.pdb
+C:\Users\Old3n\source\repos\AIRS\AIRS.AuthenticationApiSolution\AuthenticationApi.Application\obj\Debug\net8.0\ref\AuthenticationApi.Application.dll
+C:\Users\Old3n\source\repos\AIRS\AIRS.AuthenticationApiSolution\AuthenticationApi.Application\bin\Debug\net8.0\AuthenticationApi.Domain.dll
+C:\Users\Old3n\source\repos\AIRS\AIRS.AuthenticationApiSolution\AuthenticationApi.Application\bin\Debug\net8.0\AuthenticationApi.Domain.pdb

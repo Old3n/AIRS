@@ -1,0 +1,245 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Old3n\\source\\repos\\AIRS\\AIRS.AuthenticationApiSolution\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EFA25B48-D33B-43DA-BD15-573E06EA5906}|AuthenticationApi.Infrastructure\\AuthenticationApi.Infrastructure.csproj|c:\\users\\old3n\\source\\repos\\airs\\airs.authenticationapisolution\\authenticationapi.infrastructure\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFA25B48-D33B-43DA-BD15-573E06EA5906}|AuthenticationApi.Infrastructure\\AuthenticationApi.Infrastructure.csproj|solutionrelative:authenticationapi.infrastructure\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFA25B48-D33B-43DA-BD15-573E06EA5906}|AuthenticationApi.Infrastructure\\AuthenticationApi.Infrastructure.csproj|c:\\users\\old3n\\source\\repos\\airs\\airs.authenticationapisolution\\authenticationapi.infrastructure\\messaging\\messagebusclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFA25B48-D33B-43DA-BD15-573E06EA5906}|AuthenticationApi.Infrastructure\\AuthenticationApi.Infrastructure.csproj|solutionrelative:authenticationapi.infrastructure\\messaging\\messagebusclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D8680DF-5D2D-459B-B0F8-74C4D228214F}|AuthenticationApi.Application\\AuthenticationApi.Application.csproj|c:\\users\\old3n\\source\\repos\\airs\\airs.authenticationapisolution\\authenticationapi.application\\dtos\\userpublisheddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D8680DF-5D2D-459B-B0F8-74C4D228214F}|AuthenticationApi.Application\\AuthenticationApi.Application.csproj|solutionrelative:authenticationapi.application\\dtos\\userpublisheddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9C6F375-520C-47F2-86D0-9ADE0B14F238}|AuthenticationApi.Domain\\AuthenticationApi.Domain.csproj|c:\\users\\old3n\\source\\repos\\airs\\airs.authenticationapisolution\\authenticationapi.domain\\entities\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9C6F375-520C-47F2-86D0-9ADE0B14F238}|AuthenticationApi.Domain\\AuthenticationApi.Domain.csproj|solutionrelative:authenticationapi.domain\\entities\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D8680DF-5D2D-459B-B0F8-74C4D228214F}|AuthenticationApi.Application\\AuthenticationApi.Application.csproj|c:\\users\\old3n\\source\\repos\\airs\\airs.authenticationapisolution\\authenticationapi.application\\dtos\\userreaddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D8680DF-5D2D-459B-B0F8-74C4D228214F}|AuthenticationApi.Application\\AuthenticationApi.Application.csproj|solutionrelative:authenticationapi.application\\dtos\\userreaddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D8680DF-5D2D-459B-B0F8-74C4D228214F}|AuthenticationApi.Application\\AuthenticationApi.Application.csproj|c:\\users\\old3n\\source\\repos\\airs\\airs.authenticationapisolution\\authenticationapi.application\\dtos\\usercreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D8680DF-5D2D-459B-B0F8-74C4D228214F}|AuthenticationApi.Application\\AuthenticationApi.Application.csproj|solutionrelative:authenticationapi.application\\dtos\\usercreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EA5677E-C29C-40C8-9B8B-E68D5067E34A}|AuthenticationApi.Presentation\\AuthenticationApi.Presentation.csproj|c:\\users\\old3n\\source\\repos\\airs\\airs.authenticationapisolution\\authenticationapi.presentation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EA5677E-C29C-40C8-9B8B-E68D5067E34A}|AuthenticationApi.Presentation\\AuthenticationApi.Presentation.csproj|solutionrelative:authenticationapi.presentation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EA5677E-C29C-40C8-9B8B-E68D5067E34A}|AuthenticationApi.Presentation\\AuthenticationApi.Presentation.csproj|c:\\users\\old3n\\source\\repos\\airs\\airs.authenticationapisolution\\authenticationapi.presentation\\extensions\\servicecollectionextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EA5677E-C29C-40C8-9B8B-E68D5067E34A}|AuthenticationApi.Presentation\\AuthenticationApi.Presentation.csproj|solutionrelative:authenticationapi.presentation\\extensions\\servicecollectionextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D8680DF-5D2D-459B-B0F8-74C4D228214F}|AuthenticationApi.Application\\AuthenticationApi.Application.csproj|c:\\users\\old3n\\source\\repos\\airs\\airs.authenticationapisolution\\authenticationapi.application\\profiles\\usersprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D8680DF-5D2D-459B-B0F8-74C4D228214F}|AuthenticationApi.Application\\AuthenticationApi.Application.csproj|solutionrelative:authenticationapi.application\\profiles\\usersprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D8680DF-5D2D-459B-B0F8-74C4D228214F}|AuthenticationApi.Application\\AuthenticationApi.Application.csproj|c:\\users\\old3n\\source\\repos\\airs\\airs.authenticationapisolution\\authenticationapi.application\\interfaces\\iuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D8680DF-5D2D-459B-B0F8-74C4D228214F}|AuthenticationApi.Application\\AuthenticationApi.Application.csproj|solutionrelative:authenticationapi.application\\interfaces\\iuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EA5677E-C29C-40C8-9B8B-E68D5067E34A}|AuthenticationApi.Presentation\\AuthenticationApi.Presentation.csproj|c:\\users\\old3n\\source\\repos\\airs\\airs.authenticationapisolution\\authenticationapi.presentation\\authenticationapi-20250110.text||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{1EA5677E-C29C-40C8-9B8B-E68D5067E34A}|AuthenticationApi.Presentation\\AuthenticationApi.Presentation.csproj|solutionrelative:authenticationapi.presentation\\authenticationapi-20250110.text||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D8680DF-5D2D-459B-B0F8-74C4D228214F}|AuthenticationApi.Application\\AuthenticationApi.Application.csproj|c:\\users\\old3n\\source\\repos\\airs\\airs.authenticationapisolution\\authenticationapi.application\\dtos\\userinfodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D8680DF-5D2D-459B-B0F8-74C4D228214F}|AuthenticationApi.Application\\AuthenticationApi.Application.csproj|solutionrelative:authenticationapi.application\\dtos\\userinfodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9C6F375-520C-47F2-86D0-9ADE0B14F238}|AuthenticationApi.Domain\\AuthenticationApi.Domain.csproj|c:\\users\\old3n\\source\\repos\\airs\\airs.authenticationapisolution\\authenticationapi.domain\\authenticationapi.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{E9C6F375-520C-47F2-86D0-9ADE0B14F238}|AuthenticationApi.Domain\\AuthenticationApi.Domain.csproj|solutionrelative:authenticationapi.domain\\authenticationapi.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserPublishedDto.cs",
+              "DocumentMoniker": "C:\\Users\\Old3n\\source\\repos\\AIRS\\AIRS.AuthenticationApiSolution\\AuthenticationApi.Application\\DTOs\\UserPublishedDto.cs",
+              "RelativeDocumentMoniker": "AuthenticationApi.Application\\DTOs\\UserPublishedDto.cs",
+              "ToolTip": "C:\\Users\\Old3n\\source\\repos\\AIRS\\AIRS.AuthenticationApiSolution\\AuthenticationApi.Application\\DTOs\\UserPublishedDto.cs",
+              "RelativeToolTip": "AuthenticationApi.Application\\DTOs\\UserPublishedDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAwwAoAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T13:48:56.29Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MessageBusClient.cs",
+              "DocumentMoniker": "C:\\Users\\Old3n\\source\\repos\\AIRS\\AIRS.AuthenticationApiSolution\\AuthenticationApi.Infrastructure\\Messaging\\MessageBusClient.cs",
+              "RelativeDocumentMoniker": "AuthenticationApi.Infrastructure\\Messaging\\MessageBusClient.cs",
+              "ToolTip": "C:\\Users\\Old3n\\source\\repos\\AIRS\\AIRS.AuthenticationApiSolution\\AuthenticationApi.Infrastructure\\Messaging\\MessageBusClient.cs",
+              "RelativeToolTip": "AuthenticationApi.Infrastructure\\Messaging\\MessageBusClient.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAowEAAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T02:52:23.016Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Old3n\\source\\repos\\AIRS\\AIRS.AuthenticationApiSolution\\AuthenticationApi.Infrastructure\\Repositories\\UserRepository.cs",
+              "RelativeDocumentMoniker": "AuthenticationApi.Infrastructure\\Repositories\\UserRepository.cs",
+              "ToolTip": "C:\\Users\\Old3n\\source\\repos\\AIRS\\AIRS.AuthenticationApiSolution\\AuthenticationApi.Infrastructure\\Repositories\\UserRepository.cs",
+              "RelativeToolTip": "AuthenticationApi.Infrastructure\\Repositories\\UserRepository.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAAAswE4AAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T22:43:31.365Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AppUser.cs",
+              "DocumentMoniker": "C:\\Users\\Old3n\\source\\repos\\AIRS\\AIRS.AuthenticationApiSolution\\AuthenticationApi.Domain\\Entities\\AppUser.cs",
+              "RelativeDocumentMoniker": "AuthenticationApi.Domain\\Entities\\AppUser.cs",
+              "ToolTip": "C:\\Users\\Old3n\\source\\repos\\AIRS\\AIRS.AuthenticationApiSolution\\AuthenticationApi.Domain\\Entities\\AppUser.cs",
+              "RelativeToolTip": "AuthenticationApi.Domain\\Entities\\AppUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAwwBAAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T13:48:23.066Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UserReadDto.cs",
+              "DocumentMoniker": "C:\\Users\\Old3n\\source\\repos\\AIRS\\AIRS.AuthenticationApiSolution\\AuthenticationApi.Application\\DTOs\\UserReadDto.cs",
+              "RelativeDocumentMoniker": "AuthenticationApi.Application\\DTOs\\UserReadDto.cs",
+              "ToolTip": "C:\\Users\\Old3n\\source\\repos\\AIRS\\AIRS.AuthenticationApiSolution\\AuthenticationApi.Application\\DTOs\\UserReadDto.cs",
+              "RelativeToolTip": "AuthenticationApi.Application\\DTOs\\UserReadDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T13:48:56.752Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Old3n\\source\\repos\\AIRS\\AIRS.AuthenticationApiSolution\\AuthenticationApi.Presentation\\Program.cs",
+              "RelativeDocumentMoniker": "AuthenticationApi.Presentation\\Program.cs",
+              "ToolTip": "C:\\Users\\Old3n\\source\\repos\\AIRS\\AIRS.AuthenticationApiSolution\\AuthenticationApi.Presentation\\Program.cs",
+              "RelativeToolTip": "AuthenticationApi.Presentation\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T02:09:32.679Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ServiceCollectionExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\Old3n\\source\\repos\\AIRS\\AIRS.AuthenticationApiSolution\\AuthenticationApi.Presentation\\Extensions\\ServiceCollectionExtensions.cs",
+              "RelativeDocumentMoniker": "AuthenticationApi.Presentation\\Extensions\\ServiceCollectionExtensions.cs",
+              "ToolTip": "C:\\Users\\Old3n\\source\\repos\\AIRS\\AIRS.AuthenticationApiSolution\\AuthenticationApi.Presentation\\Extensions\\ServiceCollectionExtensions.cs",
+              "RelativeToolTip": "AuthenticationApi.Presentation\\Extensions\\ServiceCollectionExtensions.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAgwD4AAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T01:21:23.233Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UsersProfile.cs",
+              "DocumentMoniker": "C:\\Users\\Old3n\\source\\repos\\AIRS\\AIRS.AuthenticationApiSolution\\AuthenticationApi.Application\\Profiles\\UsersProfile.cs",
+              "RelativeDocumentMoniker": "AuthenticationApi.Application\\Profiles\\UsersProfile.cs",
+              "ToolTip": "C:\\Users\\Old3n\\source\\repos\\AIRS\\AIRS.AuthenticationApiSolution\\AuthenticationApi.Application\\Profiles\\UsersProfile.cs",
+              "RelativeToolTip": "AuthenticationApi.Application\\Profiles\\UsersProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T22:48:37.241Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UserCreateDto.cs",
+              "DocumentMoniker": "C:\\Users\\Old3n\\source\\repos\\AIRS\\AIRS.AuthenticationApiSolution\\AuthenticationApi.Application\\DTOs\\UserCreateDto.cs",
+              "RelativeDocumentMoniker": "AuthenticationApi.Application\\DTOs\\UserCreateDto.cs",
+              "ToolTip": "C:\\Users\\Old3n\\source\\repos\\AIRS\\AIRS.AuthenticationApiSolution\\AuthenticationApi.Application\\DTOs\\UserCreateDto.cs",
+              "RelativeToolTip": "AuthenticationApi.Application\\DTOs\\UserCreateDto.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAIAywAsAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T22:43:42.531Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IUser.cs",
+              "DocumentMoniker": "C:\\Users\\Old3n\\source\\repos\\AIRS\\AIRS.AuthenticationApiSolution\\AuthenticationApi.Application\\Interfaces\\IUser.cs",
+              "RelativeDocumentMoniker": "AuthenticationApi.Application\\Interfaces\\IUser.cs",
+              "ToolTip": "C:\\Users\\Old3n\\source\\repos\\AIRS\\AIRS.AuthenticationApiSolution\\AuthenticationApi.Application\\Interfaces\\IUser.cs",
+              "RelativeToolTip": "AuthenticationApi.Application\\Interfaces\\IUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T15:17:26.791Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AuthenticationApi-20250110.text",
+              "DocumentMoniker": "C:\\Users\\Old3n\\source\\repos\\AIRS\\AIRS.AuthenticationApiSolution\\AuthenticationApi.Presentation\\AuthenticationApi-20250110.text",
+              "RelativeDocumentMoniker": "AuthenticationApi.Presentation\\AuthenticationApi-20250110.text",
+              "ToolTip": "C:\\Users\\Old3n\\source\\repos\\AIRS\\AIRS.AuthenticationApiSolution\\AuthenticationApi.Presentation\\AuthenticationApi-20250110.text",
+              "RelativeToolTip": "AuthenticationApi.Presentation\\AuthenticationApi-20250110.text",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-01-09T22:51:14.949Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "UserInfoDto.cs",
+              "DocumentMoniker": "C:\\Users\\Old3n\\source\\repos\\AIRS\\AIRS.AuthenticationApiSolution\\AuthenticationApi.Application\\DTOs\\UserInfoDto.cs",
+              "RelativeDocumentMoniker": "AuthenticationApi.Application\\DTOs\\UserInfoDto.cs",
+              "ToolTip": "C:\\Users\\Old3n\\source\\repos\\AIRS\\AIRS.AuthenticationApiSolution\\AuthenticationApi.Application\\DTOs\\UserInfoDto.cs",
+              "RelativeToolTip": "AuthenticationApi.Application\\DTOs\\UserInfoDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T22:43:56.804Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AuthenticationApi.Domain.csproj",
+              "DocumentMoniker": "C:\\Users\\Old3n\\source\\repos\\AIRS\\AIRS.AuthenticationApiSolution\\AuthenticationApi.Domain\\AuthenticationApi.Domain.csproj",
+              "RelativeDocumentMoniker": "AuthenticationApi.Domain\\AuthenticationApi.Domain.csproj",
+              "ToolTip": "C:\\Users\\Old3n\\source\\repos\\AIRS\\AIRS.AuthenticationApiSolution\\AuthenticationApi.Domain\\AuthenticationApi.Domain.csproj",
+              "RelativeToolTip": "AuthenticationApi.Domain\\AuthenticationApi.Domain.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-09T19:41:49.171Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+C:\Users\Old3n\source\repos\AIRS\AIRS.PersonalityTestSolution\AIRS.PersonalityTest.Application\bin\Debug\net8.0\AIRS.PersonalityTest.Application.deps.json
+C:\Users\Old3n\source\repos\AIRS\AIRS.PersonalityTestSolution\AIRS.PersonalityTest.Application\bin\Debug\net8.0\AIRS.PersonalityTest.Application.dll
+C:\Users\Old3n\source\repos\AIRS\AIRS.PersonalityTestSolution\AIRS.PersonalityTest.Application\bin\Debug\net8.0\AIRS.PersonalityTest.Application.pdb
+C:\Users\Old3n\source\repos\AIRS\AIRS.PersonalityTestSolution\AIRS.PersonalityTest.Application\bin\Debug\net8.0\AIRS.PersonalityTest.Domain.dll
+C:\Users\Old3n\source\repos\AIRS\AIRS.PersonalityTestSolution\AIRS.PersonalityTest.Application\bin\Debug\net8.0\AIRS.SharedLibrary.dll
+C:\Users\Old3n\source\repos\AIRS\AIRS.PersonalityTestSolution\AIRS.PersonalityTest.Application\bin\Debug\net8.0\AIRS.SharedLibrary.pdb
+C:\Users\Old3n\source\repos\AIRS\AIRS.PersonalityTestSolution\AIRS.PersonalityTest.Application\bin\Debug\net8.0\AIRS.PersonalityTest.Domain.pdb
+C:\Users\Old3n\source\repos\AIRS\AIRS.PersonalityTestSolution\AIRS.PersonalityTest.Application\obj\Debug\net8.0\AIRS.PersonalityTest.Application.csproj.AssemblyReference.cache
+C:\Users\Old3n\source\repos\AIRS\AIRS.PersonalityTestSolution\AIRS.PersonalityTest.Application\obj\Debug\net8.0\AIRS.PersonalityTest.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Old3n\source\repos\AIRS\AIRS.PersonalityTestSolution\AIRS.PersonalityTest.Application\obj\Debug\net8.0\AIRS.PersonalityTest.Application.AssemblyInfoInputs.cache
+C:\Users\Old3n\source\repos\AIRS\AIRS.PersonalityTestSolution\AIRS.PersonalityTest.Application\obj\Debug\net8.0\AIRS.PersonalityTest.Application.AssemblyInfo.cs
+C:\Users\Old3n\source\repos\AIRS\AIRS.PersonalityTestSolution\AIRS.PersonalityTest.Application\obj\Debug\net8.0\AIRS.PersonalityTest.Application.csproj.CoreCompileInputs.cache
+C:\Users\Old3n\source\repos\AIRS\AIRS.PersonalityTestSolution\AIRS.PersonalityTest.Application\obj\Debug\net8.0\AIRS.Per.81902317.Up2Date
+C:\Users\Old3n\source\repos\AIRS\AIRS.PersonalityTestSolution\AIRS.PersonalityTest.Application\obj\Debug\net8.0\AIRS.PersonalityTest.Application.dll
+C:\Users\Old3n\source\repos\AIRS\AIRS.PersonalityTestSolution\AIRS.PersonalityTest.Application\obj\Debug\net8.0\refint\AIRS.PersonalityTest.Application.dll
+C:\Users\Old3n\source\repos\AIRS\AIRS.PersonalityTestSolution\AIRS.PersonalityTest.Application\obj\Debug\net8.0\AIRS.PersonalityTest.Application.pdb
+C:\Users\Old3n\source\repos\AIRS\AIRS.PersonalityTestSolution\AIRS.PersonalityTest.Application\obj\Debug\net8.0\ref\AIRS.PersonalityTest.Application.dll

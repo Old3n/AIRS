@@ -1,0 +1,103 @@
+apiVersion: networking.k8s.io/v1
+kind: Ingress
+metadata:
+  name: api-gateway
+  annotations:
+    kubernetes.io/ingress.class: nginx
+    nginx.ingress.kubernetes.io/use-regex: 'true'
+    nginx.ingress.kubernetes.io/configuration-snippet: |
+      add_header X-From-NginxGateWay "true";
+spec:
+  rules:
+    - host: acme.com
+      http:
+        paths:
+          # Routes for UserProfile service
+          - path: /api/UserProfile/me
+            pathType: Prefix
+            backend:
+              service:
+                name: userprofile-clusterip-srv
+                port:
+                  number: 8080
+          - path: /api/Data/export
+            pathType: Prefix
+            backend:
+              service:
+                name: userprofile-clusterip-srv
+                port:
+                  number: 8080
+          - path: /api/UserProfile
+            pathType: Prefix
+            backend:
+              service:
+                name: userprofile-clusterip-srv
+                port:
+                  number: 8080
+
+          # Routes for Authentication service
+          - path: /api/Authentication/register
+            pathType: Prefix
+            backend:
+              service:
+                name: authentication-clusterip-srv
+                port:
+                  number: 8080
+          - path: /api/Authentication/login
+            pathType: Prefix
+            backend:
+              service:
+                name: authentication-clusterip-srv
+                port:
+                  number: 8080
+          - path: /api/Authentication/{id}
+            pathType: Prefix
+            backend:
+              service:
+                name: authentication-clusterip-srv
+                port:
+                  number: 8080
+          - path: /api/Authentication
+            pathType: Prefix
+            backend:
+              service:
+                name: authentication-clusterip-srv
+                port:
+                  number: 8080
+
+          # Routes for Tests service
+          - path: /api/tests/{testCode}/Questions
+            pathType: Prefix
+            backend:
+              service:
+                name: tests-clusterip-srv
+                port:
+                  number: 8080
+          - path: /api/Result
+            pathType: Prefix
+            backend:
+              service:
+                name: tests-clusterip-srv
+                port:
+                  number: 8080
+          - path: /api/Tests
+            pathType: Prefix
+            backend:
+              service:
+                name: tests-clusterip-srv
+                port:
+                  number: 8080
+          - path: api/Tests/{testCode}
+            pathType: Prefix
+            backend:
+              service:
+                name: tests-clusterip-srv
+                port:
+                  number: 8080
+          - path: api/Tests/by-name/{testName}
+            pathType: Prefix
+            backend:
+              service:
+                name: tests-clusterip-srv
+                port:
+                  number: 8080
